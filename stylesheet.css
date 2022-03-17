@@ -194,7 +194,8 @@ color: gray;
 
 /*Manga Trend  */
 .Überschrift3{
-	color:wheat ;
+	width:100px;
+	color:white ;
 	position: absolute;
 	top: 30px;
 	left: 10px;
@@ -311,7 +312,8 @@ color: gray;
 
 /*Anime Saison Hits */
 .Überschrift2{
-	color:wheat ;
+	width:100px;
+	color:white ;
 	position: absolute;
 	left: 10px;
 	top:420px;
@@ -353,7 +355,8 @@ color: gray;
 
 /*Menu Anime Trailer*/
 .Überschrift1{
-	color:wheat ;
+	width:100px;
+	color:white ;
 	position: absolute;
 	left:950px;
 	top: 1340px ;
@@ -402,7 +405,8 @@ color: gray;
 
 /*F=Freunde S=Schule Q=Quelle W=Webseite */
 .Überschrift5{
-	color:wheat ;
+	width:100px;
+	color:white ;
 	position: absolute;
 	left: 700px;
 	top: 150px;;
@@ -458,7 +462,8 @@ color: gray;
 
   /*Seite 2 Anime Related */
   .Überschrift6{
-	color:wheat ;
+	  width:100px;
+	color:white ;
 	position: absolute;
 	top: 989px;
   	left:780px;
@@ -508,7 +513,7 @@ color: gray;
 
 	/*Seite 2 Anime Voice Actors */
 	.Überschrift7{
-		color:wheat ;
+		color:white ;
 		position: absolute;
 		top: 629px ;
  		left:800px;
@@ -550,7 +555,7 @@ left:1131px;
 
 /*Seite 2 Anime Videos */
 .Überschrift8{
-	color:wheat ;
+	color:white ;
 	position: absolute;
 	top: 1309px ;
 	left:700px;
