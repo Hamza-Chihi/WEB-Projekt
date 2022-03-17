@@ -10,8 +10,9 @@ body {
    margin:auto;
    width: auto;  
 }
-
-
+p{
+float:left;	
+}
 /*körper und wo alle rein kommt */
 #main{
 position: relative;
